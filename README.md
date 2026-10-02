@@ -120,7 +120,7 @@ biosentry/
 │       ├── alerte.py                           # Calcul du niveau d'alerte
 │       └── *.json                              # Résultats de détection
 │
-├── Dashboard/                                  # Vidéo de démonstration (lien externe, voir plus bas)
+│  
 ├── Presentation_BioSentry.pdf
 ├── Rapport_de_projet.pdf
 ├── requirements.txt
@@ -317,12 +317,6 @@ Une vidéo de démonstration du tableau de bord est disponible ici :
 - Données collectées et résultats des modèles au format JSON
 - Vidéo de démonstration du dashboard (lien ci-dessus)
 
-## Limites et avertissements
-
-- BioSentry est un **outil d'aide à la détection de signaux** : une alerte n'est pas une preuve de causalité entre un médicament et un effet secondaire.
-- Les données issues de forums (Reddit, avis patients) sont déclaratives et potentiellement biaisées.
-- Un nombre de mentions élevé peut refléter l'attention médiatique ou une forte utilisation du médicament, et pas nécessairement un risque accru.
-- Projet réalisé dans un cadre **académique** ; ne pas utiliser pour la prise de décision médicale.
 
 ## Technologies
 
