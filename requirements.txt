@@ -1,0 +1,25 @@
+# Base de données
+pymongo[srv]
+python-dotenv
+neo4j
+elasticsearch
+
+# Collecte
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+tqdm
+
+# Data / ML
+numpy
+pandas
+scikit-learn
+hdbscan
+
+# NLP
+torch
+transformers
+spacy
+vaderSentiment
