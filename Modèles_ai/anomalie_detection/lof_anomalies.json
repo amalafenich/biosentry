@@ -1,0 +1,3722 @@
+[
+    {
+        "algorithm": "LOF",
+        "drug": "5-hydroxytryptophan",
+        "side_effect": "insomnia",
+        "period": "2019-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.734068"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "aceclofenac",
+        "side_effect": "drug hypersensitivity",
+        "period": "2020-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736090"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "aceclofenac",
+        "side_effect": "face oedema",
+        "period": "2019-11",
+        "mention_count": 2,
+        "lof_score": 1.6485,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736090"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "aceclofenac",
+        "side_effect": "myoclonus",
+        "period": "2020-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "acemetacin",
+        "side_effect": "neck pain",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1.5127,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "acemetacin",
+        "side_effect": "pulmonary pneumatocele",
+        "period": "2021-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "acemetacin",
+        "side_effect": "systemic lupus erythematosus",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 859132998.792,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "amitriptyline",
+        "side_effect": "dizziness",
+        "period": "2026-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "amoxicillin",
+        "side_effect": "diarrhea",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "amoxicillin",
+        "side_effect": "diarrhea",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "amoxicillin",
+        "side_effect": "diarrhea",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ampicillin / sulbactam",
+        "side_effect": "hypokalaemia",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ampicillin / sulbactam",
+        "side_effect": "hyponatraemia",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ampicillin / sulbactam",
+        "side_effect": "neuromuscular block prolonged",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "apixaban",
+        "side_effect": "weight gain",
+        "period": "2019-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "apixaban",
+        "side_effect": "weight gain",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "aprocitentan",
+        "side_effect": "hypertension",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "aspirin",
+        "side_effect": "hypertension",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "anxiety",
+        "period": "2021-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "anxiety",
+        "period": "2024-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "anxiety",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "depression",
+        "period": "2026-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "dizziness",
+        "period": "2023-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "dizziness",
+        "period": "2023-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "dizziness",
+        "period": "2024-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "hypertension",
+        "period": "2023-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "hypertension",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "atorvastatin",
+        "side_effect": "hypertension",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.736510"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "benzydamine",
+        "side_effect": "back pain",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "benzydamine",
+        "side_effect": "condition aggravated",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "benzydamine",
+        "side_effect": "swollen tongue",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "benzydamine",
+        "side_effect": "tongue ulceration",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "benzydamine",
+        "side_effect": "urinary tract infection",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bosentan",
+        "side_effect": "hypertension",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bosentan",
+        "side_effect": "hypertension",
+        "period": "2022-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bosentan",
+        "side_effect": "hypertension",
+        "period": "2023-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bosentan",
+        "side_effect": "hypertension",
+        "period": "2024-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bosentan",
+        "side_effect": "hypertension",
+        "period": "2025-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bufexamac",
+        "side_effect": "ventricular fibrillation",
+        "period": "2021-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bufexamac",
+        "side_effect": "ventricular fibrillation",
+        "period": "2022-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "bupropion",
+        "side_effect": "depression",
+        "period": "2026-01",
+        "mention_count": 2,
+        "lof_score": 1.5993,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "arteriosclerosis",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "death",
+        "period": "2020-07",
+        "mention_count": 14,
+        "lof_score": 2.0546,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "hepatic failure",
+        "period": "2021-05",
+        "mention_count": 3,
+        "lof_score": 1.7642,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "lip pruritus",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "septic shock",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ceftaroline fosamil",
+        "side_effect": "tongue pruritus",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "celecoxib",
+        "side_effect": "depression",
+        "period": "2021-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "celecoxib",
+        "side_effect": "depression",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "celecoxib",
+        "side_effect": "headache",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "diarrhea",
+        "period": "2019-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "diarrhea",
+        "period": "2023-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "edema",
+        "period": "2023-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "edema",
+        "period": "2026-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "nausea",
+        "period": "2019-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "cephalexin",
+        "side_effect": "nausea",
+        "period": "2023-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clarithromycin",
+        "side_effect": "dizziness",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clarithromycin",
+        "side_effect": "gastritis",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clarithromycin",
+        "side_effect": "gastritis",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clarithromycin",
+        "side_effect": "insomnia",
+        "period": "2019-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clarithromycin",
+        "side_effect": "insomnia",
+        "period": "2022-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clindamycin",
+        "side_effect": "anxiety",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clomipramine",
+        "side_effect": "anxiety",
+        "period": "2019-06",
+        "mention_count": 2,
+        "lof_score": 1.5915,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clomipramine",
+        "side_effect": "anxiety",
+        "period": "2019-09",
+        "mention_count": 2,
+        "lof_score": 1.6263,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clomipramine",
+        "side_effect": "anxiety",
+        "period": "2025-09",
+        "mention_count": 2,
+        "lof_score": 1.6263,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "clonidine",
+        "side_effect": "anxiety",
+        "period": "2025-12",
+        "mention_count": 4,
+        "lof_score": 1.5623,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "desvenlafaxine",
+        "side_effect": "depression",
+        "period": "2019-05",
+        "mention_count": 2,
+        "lof_score": 1.5315,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "bleeding",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "depression",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "fatigue",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "headache",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "tinnitus",
+        "period": "2024-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexamethasone",
+        "side_effect": "tinnitus",
+        "period": "2025-06",
+        "mention_count": 2,
+        "lof_score": 1994130855.5116,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexketoprofen",
+        "side_effect": "anaphylactic reaction",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexketoprofen",
+        "side_effect": "bronchospasm",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexketoprofen",
+        "side_effect": "mast cell activation syndrome",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexketoprofen",
+        "side_effect": "transaminases increased",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dexketoprofen",
+        "side_effect": "transaminases increased",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "doxycycline",
+        "side_effect": "anxiety",
+        "period": "2019-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "doxycycline",
+        "side_effect": "anxiety",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "doxycycline",
+        "side_effect": "anxiety",
+        "period": "2024-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "doxycycline",
+        "side_effect": "anxiety",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "droxicam",
+        "side_effect": "fixed eruption",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "droxicam",
+        "side_effect": "therapeutic product cross-reactivity",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dulaglutide",
+        "side_effect": "fatigue",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "dulaglutide",
+        "side_effect": "fatigue",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "duloxetine",
+        "side_effect": "nausea",
+        "period": "2024-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "duloxetine",
+        "side_effect": "nausea",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "enoxaparin",
+        "side_effect": "bleeding",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "enoxaparin",
+        "side_effect": "bleeding",
+        "period": "2025-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etodolac",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 12,
+        "lof_score": 1.9559,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etodolac",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 1.8749,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "accidental overdose",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "confusional state",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "constipation",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "erythema",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1070783350.4822,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "erythema",
+        "period": "2019-05",
+        "mention_count": 2,
+        "lof_score": 1.6193,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "immune-mediated adverse reaction",
+        "period": "2019-06",
+        "mention_count": 11,
+        "lof_score": 2.544,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "impaired healing",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "lip erosion",
+        "period": "2019-06",
+        "mention_count": 6,
+        "lof_score": 1.5953,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "oral mucosa erosion",
+        "period": "2019-06",
+        "mention_count": 10,
+        "lof_score": 2.5413,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "etoricoxib",
+        "side_effect": "toxicity",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "fenoprofen",
+        "side_effect": "end stage renal disease",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "flurbiprofen",
+        "side_effect": "asthenia",
+        "period": "2019-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "flurbiprofen",
+        "side_effect": "asthenia",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "flurbiprofen",
+        "side_effect": "edema",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "flurbiprofen",
+        "side_effect": "nausea",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "fosfomycin",
+        "side_effect": "nausea",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "gepirone",
+        "side_effect": "anxiety",
+        "period": "2026-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "guanfacine",
+        "side_effect": "depression",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "acute kidney injury",
+        "period": "2019-02",
+        "mention_count": 34,
+        "lof_score": 3.3832,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "acute kidney injury",
+        "period": "2019-03",
+        "mention_count": 4,
+        "lof_score": 2.6734,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 56,
+        "lof_score": 5.8296,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 6,
+        "lof_score": 4.045,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "drug ineffective",
+        "period": "2019-02",
+        "mention_count": 10,
+        "lof_score": 1.7028,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "drug ineffective",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1.5397,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "end stage renal disease",
+        "period": "2019-02",
+        "mention_count": 15,
+        "lof_score": 1.8173,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "end stage renal disease",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 2.1373,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "gout",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "hyperparathyroidism secondary",
+        "period": "2019-02",
+        "mention_count": 6,
+        "lof_score": 1.561,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "nephrogenic anaemia",
+        "period": "2019-02",
+        "mention_count": 10,
+        "lof_score": 1.6797,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "nephrogenic anaemia",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1.5466,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "rebound acid hypersecretion",
+        "period": "2019-02",
+        "mention_count": 17,
+        "lof_score": 1.8738,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "rebound acid hypersecretion",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 2.5121,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "renal failure",
+        "period": "2019-02",
+        "mention_count": 37,
+        "lof_score": 3.694,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "renal failure",
+        "period": "2019-03",
+        "mention_count": 4,
+        "lof_score": 2.9248,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "renal injury",
+        "period": "2019-02",
+        "mention_count": 30,
+        "lof_score": 2.8499,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "indomethacin",
+        "side_effect": "renal injury",
+        "period": "2019-03",
+        "mention_count": 4,
+        "lof_score": 2.4227,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ketoprofen",
+        "side_effect": "nausea",
+        "period": "2026-01",
+        "mention_count": 2,
+        "lof_score": 1.5419,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "liraglutide",
+        "side_effect": "vomiting",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 1814961373.2249,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "lornoxicam",
+        "side_effect": "ischaemic stroke",
+        "period": "2019-12",
+        "mention_count": 1,
+        "lof_score": 1.5448,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "lornoxicam",
+        "side_effect": "ischaemic stroke",
+        "period": "2020-03",
+        "mention_count": 2,
+        "lof_score": 1712621488.0476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "lornoxicam",
+        "side_effect": "therapeutic product effect incomplete",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "lovastatin",
+        "side_effect": "edema",
+        "period": "2022-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "acute kidney injury",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 1.5204,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "arthritis",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 1814961373.2249,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 7049095251.1805,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 2932904010.6189,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "coordination abnormal",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "dyspnoea",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "metrorrhagia",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "neutropenia",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "off label use",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1712621488.0476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "peripheral swelling",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "pneumonia",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "renal injury",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "rheumatoid arthritis",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 3687416546.3296,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "mefenamic acid",
+        "side_effect": "rheumatoid arthritis",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 2.0501,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "meloxicam",
+        "side_effect": "anxiety",
+        "period": "2022-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "meloxicam",
+        "side_effect": "anxiety",
+        "period": "2024-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "methylprednisolone",
+        "side_effect": "dizziness",
+        "period": "2024-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "metronidazole",
+        "side_effect": "dizziness",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "metronidazole",
+        "side_effect": "fatigue",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "metronidazole",
+        "side_effect": "headache",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "minocycline",
+        "side_effect": "depression",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "morniflumate",
+        "side_effect": "avulsion fracture",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "morniflumate",
+        "side_effect": "cerebral haematoma",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "morniflumate",
+        "side_effect": "osteopenia",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "morniflumate",
+        "side_effect": "osteoporosis",
+        "period": "2019-05",
+        "mention_count": 1,
+        "lof_score": 1.5107,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "morniflumate",
+        "side_effect": "treatment noncompliance",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "acute kidney injury",
+        "period": "2019-02",
+        "mention_count": 11,
+        "lof_score": 1.8504,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "acute kidney injury",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1.6833,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 19,
+        "lof_score": 1.8744,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 4,
+        "lof_score": 1.77,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "renal failure",
+        "period": "2019-02",
+        "mention_count": 13,
+        "lof_score": 1.7918,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "renal failure",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1.8233,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "renal injury",
+        "period": "2019-02",
+        "mention_count": 10,
+        "lof_score": 1.6797,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nabumetone",
+        "side_effect": "renal injury",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1.5466,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "neomycin",
+        "side_effect": "tinnitus",
+        "period": "2023-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "neomycin",
+        "side_effect": "tinnitus",
+        "period": "2023-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "niflumic acid",
+        "side_effect": "alanine aminotransferase increased",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "niflumic acid",
+        "side_effect": "hepatic function abnormal",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "niflumic acid",
+        "side_effect": "neutropenia",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "niflumic acid",
+        "side_effect": "neutrophil count increased",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "niflumic acid",
+        "side_effect": "nikolsky^s sign positive",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nimesulide",
+        "side_effect": "drug abuse",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nimesulide",
+        "side_effect": "nausea",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nitrofurantoin",
+        "side_effect": "diarrhea",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nitrofurantoin",
+        "side_effect": "diarrhea",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nitrofurantoin",
+        "side_effect": "dizziness",
+        "period": "2019-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nitrofurantoin",
+        "side_effect": "dizziness",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nitrofurantoin",
+        "side_effect": "dizziness",
+        "period": "2024-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "nortriptyline",
+        "side_effect": "headache",
+        "period": "2023-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "arthralgia",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "arthralgia",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "arthralgia",
+        "period": "2021-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "arthralgia",
+        "period": "2022-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "arthralgia",
+        "period": "2023-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "depression",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "depression",
+        "period": "2021-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "exposure during pregnancy",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "live birth",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "rebound acid hypersecretion",
+        "period": "2020-06",
+        "mention_count": 1,
+        "lof_score": 1.6878,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "tubulointerstitial nephritis",
+        "period": "2019-06",
+        "mention_count": 2,
+        "lof_score": 1994130855.5116,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "tubulointerstitial nephritis",
+        "period": "2020-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "oxaprozin",
+        "side_effect": "vision blurred",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "parecoxib",
+        "side_effect": "respiratory acidosis",
+        "period": "2019-04",
+        "mention_count": 1,
+        "lof_score": 1.5851,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "parecoxib",
+        "side_effect": "respiratory acidosis",
+        "period": "2019-12",
+        "mention_count": 2,
+        "lof_score": 1.5681,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "auditory",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "auditory",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "blood iron abnormal",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 15,
+        "lof_score": 1.9051,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 4,
+        "lof_score": 1.7341,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-04",
+        "mention_count": 1,
+        "lof_score": 1.8329,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "drug effect incomplete",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "drug effect incomplete",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "drug reaction with eosinophilia and systemic symptoms",
+        "period": "2019-03",
+        "mention_count": 6,
+        "lof_score": 1.5234,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "fatigue",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "fixed eruption",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 1.5392,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "fixed eruption",
+        "period": "2019-03",
+        "mention_count": 9,
+        "lof_score": 1.5135,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "hallucination",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "hallucination",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "headache",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1628043017.8603,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "hypersensitivity",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "memory impairment",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1712621488.0476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "multiple allergies",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "muscular weakness",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "pain in extremity",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "red blood cell sedimentation rate increased",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "sciatica",
+        "period": "2019-02",
+        "mention_count": 6,
+        "lof_score": 1.561,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "therapeutic product cross-reactivity",
+        "period": "2019-03",
+        "mention_count": 9,
+        "lof_score": 1.5415,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.737588"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "therapeutic product effect decreased",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "therapeutic product effect decreased",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "thermal burn",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "thermal burn",
+        "period": "2019-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "piroxicam",
+        "side_effect": "vomiting",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "polymyxin b",
+        "side_effect": "nephrotoxicity",
+        "period": "2025-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "polymyxin b",
+        "side_effect": "nephrotoxicity",
+        "period": "2026-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "anxiety",
+        "period": "2019-05",
+        "mention_count": 2,
+        "lof_score": 1.5315,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "anxiety",
+        "period": "2019-09",
+        "mention_count": 2,
+        "lof_score": 1.7384,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "dizziness",
+        "period": "2020-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "dizziness",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "insomnia",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "nausea",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prazosin",
+        "side_effect": "nausea",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "prednisolone",
+        "side_effect": "edema",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "reserpine",
+        "side_effect": "anxiety",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "reserpine",
+        "side_effect": "depression",
+        "period": "2022-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "reserpine",
+        "side_effect": "depression",
+        "period": "2023-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "reserpine",
+        "side_effect": "depression",
+        "period": "2024-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "anaphylactic reaction",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "anaphylactic reaction",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "blood sodium decreased",
+        "period": "2025-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "confusional state",
+        "period": "2025-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "oedema peripheral",
+        "period": "2021-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "pain in extremity",
+        "period": "2021-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "rofecoxib",
+        "side_effect": "somnolence",
+        "period": "2025-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "semaglutide",
+        "side_effect": "hypertension",
+        "period": "2025-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sertraline",
+        "side_effect": "insomnia",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sitagliptin",
+        "side_effect": "constipation",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "acute kidney injury",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 2708410711.6476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 2074191726.6113,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "diabetes mellitus",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "hypertension",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "renal injury",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "streptomycin",
+        "side_effect": "renal injury",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1424379182.794,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "aspiration",
+        "period": "2019-06",
+        "mention_count": 6,
+        "lof_score": 1.5953,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "cardiovascular disorder",
+        "period": "2019-06",
+        "mention_count": 6,
+        "lof_score": 1.5953,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "condition aggravated",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "drug eruption",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "drug-induced liver injury",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "enterococcal infection",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 2050571302.0753,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "foetal exposure during pregnancy",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "fungaemia",
+        "period": "2019-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "general physical health deterioration",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "infection",
+        "period": "2019-02",
+        "mention_count": 3,
+        "lof_score": 2708410711.6476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "infection",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 2074191726.6113,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "lung infection",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "product use in unapproved indication",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "retroperitoneal haemorrhage",
+        "period": "2019-06",
+        "mention_count": 6,
+        "lof_score": 1.5953,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "septic shock",
+        "period": "2019-03",
+        "mention_count": 2,
+        "lof_score": 1712621488.0476,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "shock haemorrhagic",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 2050571302.0753,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulbactam",
+        "side_effect": "venoocclusive liver disease",
+        "period": "2019-04",
+        "mention_count": 6,
+        "lof_score": 1.5374,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-05",
+        "mention_count": 12,
+        "lof_score": 1.6874,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine",
+        "side_effect": "rash",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 2050571302.0753,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine / tetroxoprim",
+        "side_effect": "coma",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine / tetroxoprim",
+        "side_effect": "gastrooesophageal reflux disease",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine / tetroxoprim",
+        "side_effect": "pneumonia aspiration",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfadiazine / tetroxoprim",
+        "side_effect": "somnolence",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamerazine",
+        "side_effect": "onychomycosis",
+        "period": "2024-12",
+        "mention_count": 2,
+        "lof_score": 1.5712,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamerazine",
+        "side_effect": "pemphigus",
+        "period": "2024-12",
+        "mention_count": 2,
+        "lof_score": 1.5712,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "edema",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "edema",
+        "period": "2020-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "edema",
+        "period": "2022-05",
+        "mention_count": 1,
+        "lof_score": 322106677.9463,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "edema",
+        "period": "2023-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "end stage renal disease",
+        "period": "2021-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "intracranial aneurysm",
+        "period": "2020-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "nephrogenic anaemia",
+        "period": "2021-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "thyroid disorder",
+        "period": "2020-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethizole",
+        "side_effect": "treatment failure",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfamethoxazole",
+        "side_effect": "rash",
+        "period": "2026-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "acute respiratory failure",
+        "period": "2023-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "anaphylactic reaction",
+        "period": "2022-01",
+        "mention_count": 1,
+        "lof_score": 1.5269,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "anxiety",
+        "period": "2019-11",
+        "mention_count": 1,
+        "lof_score": 1.6435,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "breast cancer",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "cardiac failure acute",
+        "period": "2023-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "dyspnoea",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "intervertebral disc degeneration",
+        "period": "2023-06",
+        "mention_count": 2,
+        "lof_score": 1994130855.5116,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfanilamide",
+        "side_effect": "tricuspid valve incompetence",
+        "period": "2023-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfapyridine",
+        "side_effect": "ecchymosis",
+        "period": "2023-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfapyridine",
+        "side_effect": "osteopenia",
+        "period": "2023-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfapyridine",
+        "side_effect": "spinal fracture",
+        "period": "2023-04",
+        "mention_count": 2,
+        "lof_score": 1495598141.8837,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "bone erosion",
+        "period": "2024-01",
+        "mention_count": 2,
+        "lof_score": 1.6529,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "folliculitis",
+        "period": "2021-12",
+        "mention_count": 2,
+        "lof_score": 1.6232,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "hypersensitivity",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "intentional product use issue",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "rheumatoid arthritis",
+        "period": "2022-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfathiazole",
+        "side_effect": "rheumatoid arthritis",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 429475570.2617,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "decreased appetite",
+        "period": "2023-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "dizziness",
+        "period": "2023-05",
+        "mention_count": 1,
+        "lof_score": 1.5107,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "dizziness",
+        "period": "2024-08",
+        "mention_count": 1,
+        "lof_score": 1.517,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "nasopharyngitis",
+        "period": "2024-08",
+        "mention_count": 1,
+        "lof_score": 1.517,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "osteoarthritis",
+        "period": "2022-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulfisomidine",
+        "side_effect": "osteoarthritis",
+        "period": "2024-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "sulindac",
+        "side_effect": "asthenia",
+        "period": "2019-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tenoxicam",
+        "side_effect": "fixed eruption",
+        "period": "2019-08",
+        "mention_count": 2,
+        "lof_score": 2.0992,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tenoxicam",
+        "side_effect": "kyphosis",
+        "period": "2020-10",
+        "mention_count": 2,
+        "lof_score": 2.1082,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tenoxicam",
+        "side_effect": "therapeutic product cross-reactivity",
+        "period": "2019-08",
+        "mention_count": 2,
+        "lof_score": 2.0992,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "acute kidney injury",
+        "period": "2019-02",
+        "mention_count": 14,
+        "lof_score": 1.8746,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "acute kidney injury",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1.7124,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "acute kidney injury",
+        "period": "2019-04",
+        "mention_count": 1,
+        "lof_score": 1.7172,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 19,
+        "lof_score": 1.8449,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-04",
+        "mention_count": 3,
+        "lof_score": 1.8931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "diabetes mellitus",
+        "period": "2019-03",
+        "mention_count": 3,
+        "lof_score": 1902310180.5884,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "drug hypersensitivity",
+        "period": "2019-02",
+        "mention_count": 13,
+        "lof_score": 1.649,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "drug hypersensitivity",
+        "period": "2019-03",
+        "mention_count": 14,
+        "lof_score": 1.552,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "drug hypersensitivity",
+        "period": "2019-04",
+        "mention_count": 7,
+        "lof_score": 1.8419,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "drug ineffective",
+        "period": "2019-02",
+        "mention_count": 2,
+        "lof_score": 1070783350.4822,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "hypersensitivity",
+        "period": "2019-02",
+        "mention_count": 20,
+        "lof_score": 1.9944,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "hypersensitivity",
+        "period": "2019-03",
+        "mention_count": 21,
+        "lof_score": 2.0608,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "hypersensitivity",
+        "period": "2019-04",
+        "mention_count": 8,
+        "lof_score": 1.5797,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "hypersensitivity",
+        "period": "2026-01",
+        "mention_count": 1,
+        "lof_score": 2.5371,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "renal injury",
+        "period": "2019-02",
+        "mention_count": 9,
+        "lof_score": 1.711,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tetracycline",
+        "side_effect": "renal injury",
+        "period": "2019-03",
+        "mention_count": 6,
+        "lof_score": 1.7436,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tiaprofenic acid",
+        "side_effect": "synovitis",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 1413110700.5378,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tiaprofenic acid",
+        "side_effect": "treatment failure",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticagrelor",
+        "side_effect": "dyspnea",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticagrelor",
+        "side_effect": "dyspnea",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "abdominal distension",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "abdominal pain",
+        "period": "2021-02",
+        "mention_count": 1,
+        "lof_score": 205228708.2748,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "anaemia",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "arthralgia",
+        "period": "2020-09",
+        "mention_count": 2,
+        "lof_score": 1.5614,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "bacterial infection",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "cardiotoxicity",
+        "period": "2020-02",
+        "mention_count": 2,
+        "lof_score": 1780473978.2425,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "hepatomegaly",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "joint stiffness",
+        "period": "2019-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "pancreatitis haemorrhagic",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "red blood cell sedimentation rate abnormal",
+        "period": "2021-03",
+        "mention_count": 1,
+        "lof_score": 1413110700.5378,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "ticarcillin",
+        "side_effect": "vomiting",
+        "period": "2021-01",
+        "mention_count": 2,
+        "lof_score": 1509846568.2252,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "clostridium difficile infection",
+        "period": "2020-12",
+        "mention_count": 2,
+        "lof_score": 1.554,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "drug effective for unapproved indication",
+        "period": "2020-10",
+        "mention_count": 10,
+        "lof_score": 1.7874,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "drug effective for unapproved indication",
+        "period": "2023-07",
+        "mention_count": 1,
+        "lof_score": 1.5205,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "drug resistance",
+        "period": "2020-03",
+        "mention_count": 1,
+        "lof_score": 438823480.669,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "off label use",
+        "period": "2020-10",
+        "mention_count": 11,
+        "lof_score": 1.8257,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "off label use",
+        "period": "2021-12",
+        "mention_count": 1,
+        "lof_score": 1.5738,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.747444"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tinidazole",
+        "side_effect": "off label use",
+        "period": "2023-01",
+        "mention_count": 1,
+        "lof_score": 1.5852,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.753495"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tobramycin",
+        "side_effect": "acute kidney injury",
+        "period": "2019-02",
+        "mention_count": 9,
+        "lof_score": 2.5138,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.753495"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tobramycin",
+        "side_effect": "chronic kidney disease",
+        "period": "2019-02",
+        "mention_count": 11,
+        "lof_score": 2.5893,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.753495"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tolfenamic acid",
+        "side_effect": "drug ineffective",
+        "period": "2025-07",
+        "mention_count": 2,
+        "lof_score": 699277914.5931,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.753495"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tranylcypromine",
+        "side_effect": "depression",
+        "period": "2023-01",
+        "mention_count": 2,
+        "lof_score": 1.5867,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tranylcypromine",
+        "side_effect": "depression",
+        "period": "2026-01",
+        "mention_count": 2,
+        "lof_score": 1.5867,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "tranylcypromine",
+        "side_effect": "insomnia",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "trimethoprim",
+        "side_effect": "fatigue",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "trimethoprim",
+        "side_effect": "insomnia",
+        "period": "2020-02",
+        "mention_count": 1,
+        "lof_score": 536844462.5772,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "urokinase",
+        "side_effect": "bleeding",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "headache",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "headache",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "vomiting",
+        "period": "2022-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "vomiting",
+        "period": "2023-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "vomiting",
+        "period": "2025-11",
+        "mention_count": 1,
+        "lof_score": 214737785.6309,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    },
+    {
+        "algorithm": "LOF",
+        "drug": "viloxazine",
+        "side_effect": "vomiting",
+        "period": "2026-03",
+        "mention_count": 1,
+        "lof_score": 107368893.3154,
+        "is_anomaly": true,
+        "created_at": "2026-05-20T15:35:58.754871"
+    }
+]
